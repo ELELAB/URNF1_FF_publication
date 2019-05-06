@@ -23,4 +23,6 @@ The three main folders in the repository contain:
 
 -C57D.plumed2: corresponding input files for plumed2
 
-NB. .xtc trajectories file are too big to be shared in this repository but they are available upon request.
+
+NB1. the original mdp files were set for 1000 ns but we collected 550 ns per analysis, as explained in the article.
+NB2. .xtc trajectories file are too big to be shared in this repository but they are available upon request.
